@@ -49,10 +49,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJiMWd6ZzNlam95aTZxaGplaGhnOGllcDF4eHdxMnV3b205NXpxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x3L991ZHIY871NoOJI/giphy.gif" alt="decorative line" height=30 width="100%"/>
-</p>
-
 <br>
 
 ## 📊 GitHub Stats
@@ -60,5 +56,9 @@
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=roxanne-spiteri&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxanne-spiteri&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJiMWd6ZzNlam95aTZxaGplaGhnOGllcDF4eHdxMnV3b205NXpxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x3L991ZHIY871NoOJI/giphy.gif" alt="decorative line" height=30 width="100%"/>
 </p>
 
