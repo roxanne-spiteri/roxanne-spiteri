@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hi, I'm Roxanne 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3UzdmVwdHEzbG5objhtYjVuajlkamx6eHUxODE5amF5Zm16MXozcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kCMry3iScFtypKZXWn/giphy.gif" height="45" alt="Waving hand"/>
+  Hi, I'm Roxanne 👋
 </h1>
 
 <p align="center">
